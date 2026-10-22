@@ -1,0 +1,1 @@
+Foundational scripts for learning Unix command-line architecture and shell navigation.
